@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nabla&display=swap" rel="stylesheet">
-<style>h1 { font-family: 'Nabla', cursive; }</style>
+<style>h1 { font-family: 'Nabla', 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif !important; }</style>

@@ -41,13 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nabla&display=swap" rel="stylesheet">
 <style>h1 { font-family: 'Nabla', 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif !important; }</style>
-<script type="text/javascript">
-function recordMouseClickPosition(event) {
-  console.log("clientX: " + event.clientX + " - clientY: " + event.clientY);
-  document.cookie=`lastClickCoordinate=x${event.clientX}y${event.clientY}`;
-}
-document.addEventListener("click", recordMouseClickPosition);
-</script>
-<script type="text/javascript">
-document.cookie=`document.cookie=`lastVisitDate=${(new Date()).getTime()}`;
-</script>
+<script type="text/javascript">function recordMouseClickPosition(event){console.log("clientX: "+event.clientX+" - clientY: "+event.clientY);document.cookie=`lastClickCoordinate=x${event.clientX}y${event.clientY}`;}document.addEventListener("click", recordMouseClickPosition);</script>
+<script type="text/javascript">document.cookie=`document.cookie=`lastVisitDate=${(new Date()).getTime()}`;</script>

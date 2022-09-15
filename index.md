@@ -38,7 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ![Chocolate Cookies](https://i.imgur.com/I1SyBTh_d.webp?maxwidth=760&fidelity=grand)
 
-<script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/79a4b497a37122d9cd16f556b80ed3ba.js"></script>
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/fd9a3e3398e868c200f6b527/script.js"></script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nabla&display=swap" rel="stylesheet">

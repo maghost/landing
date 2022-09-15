@@ -36,6 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+![Chocolate Cookies](https://i.imgur.com/I1SyBTh_d.webp?maxwidth=760&fidelity=grand)
+
 <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/79a4b497a37122d9cd16f556b80ed3ba.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
